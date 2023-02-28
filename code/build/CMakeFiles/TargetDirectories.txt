@@ -1,0 +1,3 @@
+/mnt/g/Dropbox/pesquisa/city-edd/code/build/CMakeFiles/city-edd.dir
+/mnt/g/Dropbox/pesquisa/city-edd/code/build/CMakeFiles/edit_cache.dir
+/mnt/g/Dropbox/pesquisa/city-edd/code/build/CMakeFiles/rebuild_cache.dir

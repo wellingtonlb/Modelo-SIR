@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/city-edd.dir/random.c.o" "CMakeFiles/city-edd.dir/sir.c.o" "CMakeFiles/city-edd.dir/db.c.o" "CMakeFiles/city-edd.dir/move.c.o" "CMakeFiles/city-edd.dir/network.c.o" "CMakeFiles/city-edd.dir/main.c.o" -o city-edd  /usr/local/lib/libigraph.a -lm /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 
